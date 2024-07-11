@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shohambro
-- 👀 I’m interested in Data Science, Machine Learning, Competitive Programming etc.
+- 👀 I’m interested in Web Development, Data Analytics, AI/ML etc.
 - 🌱 I’m currently learning Data Structures And Algorithms In C++
-- 💞️ I’m looking to collaborate on Open Source Projects via GSoC
-- 📫 How to reach me @shohambrojobasi@gmail.com
+- 💞️ I’m looking to collaborate on Open Source Projects on GSoC
+- 📫 How to reach me shohambrojobasi@gmail.com
 
 <!---
 shohambro/shohambro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
