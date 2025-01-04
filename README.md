@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ### About Me 🚀
-- 🔭 Full Stack Developer exploring modern web technologies
-- 🌱 Currently mastering Data Structures & Algorithms in C++
-- 👯 Looking to collaborate on exciting open source projects
+- 🔭 Full Stack Developer exploring modern web technologies.
+- 🌱 Currently mastering Data Structures & Algorithms in C++ and Full Stack Development.
+- 👯 Looking to collaborate on exciting open source projects and create my own!
 - 📫 Reach me at: shohambrojobasi@gmail.com
 
 ### Tech Stack 🛠️
@@ -23,5 +23,7 @@
 
 ### Connect with me 🤝
 <p align="left">
-<a href="https://linkedin.com/in/YourLinkedInProfile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YourLinkedInProfile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shoham-brojobasi-9526b6201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedInProfile" height="30" width="40" /></a>
+<a href="https://x.com/shohambro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="XHandle" height="30" width="40" /></a>
+<a href="https://instagram.com/shohambro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="InstagramHandle" height="30" width="40" /></a>
 </p>
