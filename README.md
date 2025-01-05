@@ -23,6 +23,9 @@
 ### GitHub Stats ⚡
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shohambro&show_icons=true&theme=radical)
 
+### Most Used Languages 💻
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohambro&layout=compact&theme=radical&langs_count=8)
+
 ### Connect with me 🤝
 <p align="left">
 <a href="https://www.linkedin.com/in/shoham-brojobasi-9526b6201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedInProfile" height="30" width="40" /></a>
